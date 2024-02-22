@@ -117,7 +117,7 @@ $nuppVorguUhendus.Add_Click({
 
 # Loo nupp rakenduse sulgemiseks
 $nuppLopeta = New-Object System.Windows.Forms.Button
-$nuppLopeta.Text = "Lõpeta"
+$nuppLopeta.Text = "Sulge"
 $nuppLopeta.Location = New-Object System.Drawing.Point(50, 270)
 $nuppLopeta.Size = New-Object System.Drawing.Size(350, 40)
 $nuppLopeta.Font = New-Object System.Drawing.Font("Segoe UI", 12, [System.Drawing.FontStyle]::Bold)
